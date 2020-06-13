@@ -1,3 +1,7 @@
+---
+title: "First Post"
+date: 2020-06-12
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Etiam ullamcorper, lorem dictum ultricies rhoncus, eros nulla imperdiet tortor, eget commodo metus odio in eros. 
 Ut sollicitudin euismod blandit. Phasellus efficitur lobortis purus, eu volutpat nulla dictum ut. 
